@@ -1,0 +1,8 @@
+package SelfProgramming;
+
+public class Thank {
+	public static void main(String[] args) {
+		System.out.println ("\"Thank you all for coming to my home\r\n"
+				+ "tonight,\" he said mysteriously");
+}
+}
